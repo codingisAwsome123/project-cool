@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+#status{
+    font-size:17px;
+    height:8%;
+    width: 20%;
+}
+
+#header2{
+    font-size:23px;
+}
+
+#start{
+    font-size:20px;
+    width:7%;
+}
